@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
 Ragazzi ve dovete sveglià, hello word.
-=======
-hello word, quello che ti pare
->>>>>>> Stashed changes
+hello word, quello che ti pare.
+Ho fatto er mergess
+
