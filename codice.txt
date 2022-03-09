@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Ragazzi ve dovete sveglià, hello word.
+=======
+hello word, quello che ti pare
+>>>>>>> Stashed changes
